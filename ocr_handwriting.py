@@ -16,7 +16,7 @@ ap.add_argument("-i", "--image", required=True,
 	help="images/umbc_address.png")
 print('1')
 ap.add_argument("-m", "--model", type=str, required=True,
-	help="C:/Users/Rohan/PycharmProjects/ImageReconginationGrammarProject/handwriting.model")
+	help="handwriting.model")
 print('2')
 args = vars(ap.parse_args())
 
