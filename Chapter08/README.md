@@ -3,7 +3,7 @@ https://pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/
 
 Once your environment is up and running, you’ll need another package for this tutorial. You need to install [py-sudoku](https://pypi.org/project/py-sudoku/), the library we’ll be using to help us solve Sudoku puzzles:
 ```bash
-pip install py-sudoku
+pip install py-sudoku   scikit-image   scikit-learn
 ```
 
 ## Training our Sudoku digit recognizer with Keras and TensorFlow

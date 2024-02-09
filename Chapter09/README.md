@@ -2,6 +2,7 @@
 * https://pyimagesearch.com/2021/10/27/automatically-ocring-receipts-and-scans/
 * https://asprise.com/receipt-ocr/blog-github-python-receipt-ocr-api-library-free-example-code-open-source
 * https://stackoverflow.com/questions/68891423/finding-the-coordinates-of-the-edges-on-a-rectangluar-object
+* https://www.youtube.com/watch?v=yRer1GC2298
 
 To follow this guide, you need to have the OpenCV library installed on your system.
 
