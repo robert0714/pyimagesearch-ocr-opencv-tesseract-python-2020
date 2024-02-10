@@ -2,7 +2,7 @@
 * https://pyimagesearch.com/2022/03/07/ocring-video-streams/
 * https://www.youtube.com/watch?v=oooDn5SBUAg
 * https://www.youtube.com/watch?v=YlF8hI5BGi8
-
+* https://www.kaggle.com/datasets/chauhanmayank8/indian-business-cards-sample-images
 To follow this guide, you need to have the OpenCV library installed on your system.
 
 Luckily, OpenCV is pip-installable:

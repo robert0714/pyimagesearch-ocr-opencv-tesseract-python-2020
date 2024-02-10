@@ -19,3 +19,4 @@ lfw/*.*
 lfw/*
 .vscode
 weights
+*.pb

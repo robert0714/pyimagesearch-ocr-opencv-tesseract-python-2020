@@ -1,7 +1,7 @@
 # Multi-Column Table OCR
 * https://pyimagesearch.com/2020/09/21/opencv-automatic-license-number-plate-recognition-anpr-with-python/ 
 * https://github.com/krzischp/Multi_Column_Table_OCR.git
-
+* https://github.com/aws-samples/amazon-textract-textractor
 
 To follow this guide, you need to have the OpenCV library installed on your system.
 
