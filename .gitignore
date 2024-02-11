@@ -20,3 +20,4 @@ lfw/*
 .vscode
 weights
 *.pb
+**/.vagrant
