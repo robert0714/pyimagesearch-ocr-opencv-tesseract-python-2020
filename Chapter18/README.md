@@ -76,4 +76,8 @@ STOP
 ALL
 WAY
 ```
+## SDK
+* https://cloud.google.com/vision/docs/ocr
 
+## AutoML Vision deprecations
+Migrate to [Vertex AI](https://cloud.google.com/vertex-ai/docs/start/migrating-to-vertex-ai), which includes all functionality of legacy AutoML Vision as well as new features.
