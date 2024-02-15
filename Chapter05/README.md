@@ -12,5 +12,6 @@
 
 ## CMD
 ```bash
- python easy_ocr.py  --image  images/arabic_sign.jpg   --langs en,ar
+pip install Pillow==9.5.0 opencv-contrib-python
+python easy_ocr.py  --image  images/arabic_sign.jpg   --langs en,ar
 ```
