@@ -17,3 +17,4 @@ python easy_ocr.py  --image  images/arabic_sign.jpg   --langs en,ar
 ```
 # PaddleOCR
 * https://github.com/PaddlePaddle/PaddleOCR
+* https://github.com/PaddleOCR-Community/Dive-into-OCR
