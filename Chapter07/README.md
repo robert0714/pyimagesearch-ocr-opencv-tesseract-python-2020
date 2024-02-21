@@ -71,3 +71,9 @@ employee_ein
 ============
 12-3456789
 ```
+## Reference
+* https://github.com/shejz/OCR
+* https://github.com/Kasra1377/document-invoice
+* https://github.com/alexngun/OCR
+* https://github.com/garrlicbread/OCR-Invoice-Detection/
+* https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse
